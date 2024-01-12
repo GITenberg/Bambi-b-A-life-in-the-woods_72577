@@ -1,0 +1,51 @@
+_repo: Bambi-b-A-life-in-the-woods_72577
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: https://en.wikipedia.org/wiki/John_Galsworthy
+  illustrator:
+    agent_name: Wiese, Kurt
+    gutenberg_agent_id: '56733'
+    url: http://www.gutenberg.org/2009/agents/56733
+  translator:
+    agent_name: Chambers, Whittaker
+    gutenberg_agent_id: '56732'
+    url: http://www.gutenberg.org/2009/agents/56732
+creator:
+  author:
+    agent_name: Salten, Felix
+    birthdate: 1869
+    deathdate: 1945
+    gutenberg_agent_id: '35122'
+    url: http://www.gutenberg.org/2009/agents/35122
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Felix_Salten
+    - https://de.wikipedia.org/wiki/Felix_Salten
+description: ''
+gutenberg_issued: '2024-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72577'
+language: en
+pgterms:marc905: 20220111084432salten
+pgterms:marc906: '1928'
+pgterms:marc907: '1928'
+production_note:
+- Delphine Lettau, Greg Weeks, Cindy Beyer, Mary Meehan & the online Distributed Proofreaders
+  Canada team at http://www.pgdpcanada.net
+- Iona Vaughan, Jen Haines, Greg Weeks, Mary Meehan & the online Distributed Proofreaders
+  Canada team at https://www.pgdpcanada.net
+publication_note: '  $aNew York, NY :$bSimon and Schuster, $c1928, copyright 1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Bambi : $b A life in the woods'
+url: http://www.gutenberg.org/ebooks/72577
