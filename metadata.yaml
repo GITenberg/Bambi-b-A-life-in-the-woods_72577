@@ -17,6 +17,9 @@ contributor:
     agent_name: Chambers, Whittaker
     gutenberg_agent_id: '56732'
     url: http://www.gutenberg.org/2009/agents/56732
+covers:
+- cover_type: archival
+  image_path: 72577-h/images/cover.jpg
 creator:
   author:
     agent_name: Salten, Felix
@@ -28,6 +31,8 @@ creator:
     - https://en.wikipedia.org/wiki/Felix_Salten
     - https://de.wikipedia.org/wiki/Felix_Salten
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72577#Bambi-b-A-life-in-the-woods
 gutenberg_issued: '2024-01-01'
 gutenberg_type: Text
 identifiers:
